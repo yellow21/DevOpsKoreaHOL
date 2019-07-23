@@ -1,7 +1,7 @@
-# 2019-07-23 해드IT DEMO
+# 2019-07-23 HeadIT Inc. DEMO
 
 ```
- 이런것 저런것 그런것 이민규
+ DevOps 전사 도입을 위한 교육과정 수강 중!
 ```
 
 # Azure DevOps HOL
